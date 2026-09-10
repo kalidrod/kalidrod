@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋🏻
+Hello, my name is Kalidrod. I do coding, and the languages I use are Bash, Java, Python, HTML, CSS, and JS. I am primarily a tool designer—I create tools—and you can follow me on 
+Instagram if you'd like.
+<a href="https://www.instagram.com/ur_.krishn._02" target="_blank">
+  <img src="instagram-follow.svg" alt="Follow on Instagram" width="420">
+</a>
 
 <!--
 **kalidrod/kalidrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
