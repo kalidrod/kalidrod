@@ -1,10 +1,19 @@
 ## Hi there 👋🏻
-Hello, my name is Kalidrod. I do coding, and the languages I use are Bash, Java, Python, HTML, CSS, and JS. I am primarily a tool designer—I create tools—and you can follow me on 
+Hello, my name is Kalidrod. I do coding, and the languages I use are 
+>[Bash],
+>[Java],
+>[Python],
+>[HTML],
+>[CSS],
+>[JS],
+I am primarily a tool designer—I create tools—and you can follow me on 
 Instagram if you'd like.
-<a href="https://www.instagram.com/ur_.krishn._02" target="_blank">
-  <img src="instagram-follow.svg" alt="Follow on Instagram" width="420">
+<div align="center">
+<a href="https://instagram.com/ur_.krishn._02">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow">
 </a>
 
+</div>
 <!--
 **kalidrod/kalidrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
